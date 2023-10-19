@@ -1,6 +1,6 @@
 package animal;
 
-public class Elefant extend Erbivor implements Animal {
+public class Elefant extends Erbivor implements Animal {
     @Override
     public void manincaFructe() {
         System.out.println("Elefantul maninca fructe");
