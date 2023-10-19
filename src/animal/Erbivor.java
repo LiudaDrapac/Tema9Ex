@@ -1,6 +1,6 @@
 package animal;
 
-public abstract class Erbivor extends Elefant {
+public abstract class Erbivor {
 
     public abstract void manincaFrunze();
 
